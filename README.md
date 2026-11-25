@@ -17,6 +17,20 @@
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
+## 🌐 Live Demo
+
+<div align="center">
+
+🚀 **PujaFlow is Live!**
+
+Experience the complete puja booking workflow, admin dashboard, and mock WhatsApp notification system.
+
+[![Live Demo](https://img.shields.io/badge/🪔_LIVE_DEMO-Visit_PujaFlow-E85D04?style=for-the-badge)](https://aaradhya-setu-assignment.vercel.app)
+
+**🔗 [Launch PujaFlow](https://aaradhya-setu-assignment.vercel.app)**
+
+</div>
+
 ## 🪔 About
 
 **PujaFlow** is a full-stack booking workflow and notification management system developed for the Aaradhya Setu Software Engineering Internship Assignment.
